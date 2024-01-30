@@ -2,13 +2,13 @@
 		"title": "Energi Mainnet",
 		"url": "https://explorer.energi.network/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/energi.svg",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/energi/configs/network-icons/energi.svg",
 		"isActive": true
 	},
 	{
 		"title": "Energi Testnet",
 		"url": "https://explorer.test.energi.network/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/energi.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/energi/configs/network-icons/energi.svg"
 	}
 ]
